@@ -1,7 +1,0 @@
-mkdir hydration-monitor
-cd hydration-monitor
-python -m venv venv
-source venv/bin/activate  # On macOS
-pip install fastapi uvicorn sqlalchemy pydantic python-jose[cryptography] passlib[bcrypt] python-multipart psycopg2-binary -r requirements.txt
-uvicorn app.main:app --reload 
-createdb hydration_db 
