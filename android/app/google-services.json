@@ -1,51 +1,26 @@
 {
   "project_info": {
-    "project_number": "180463640197",
-    "project_id": "finance-app-32589",
-    "storage_bucket": "finance-app-32589.appspot.com"
+    "project_number": "920803265680",
+    "project_id": "hyd-ration-ut5jsu",
+    "storage_bucket": "hyd-ration-ut5jsu.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:180463640197:android:7098c54fdbe6b72590d3ec",
+        "mobilesdk_app_id": "1:920803265680:android:3ddf4d10d047641aecdc15",
         "android_client_info": {
-          "package_name": "com.flutterflow.finwallet"
+          "package_name": "com.mealplanner.app"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "180463640197-njg7a7q76o33q1an12evod58hc1n6hb9.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.flutterflow.finwallet",
-            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
-          }
-        },
-        {
-          "client_id": "180463640197-db4kosavbe56k76o3su30a5fh5av009h.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAstOlE5JzJpCL4sPeQOpLZO6Eurybgxig"
+          "current_key": "AIzaSyDgPMpN44nYGNv4IwBIXZ-OccFdiFQ7Nus"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "180463640197-db4kosavbe56k76o3su30a5fh5av009h.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "180463640197-7q7e504ghn310jhsup5ups4aone1g1si.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "Finance.App"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }

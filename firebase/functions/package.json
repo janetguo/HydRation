@@ -18,10 +18,10 @@
   },
   "scripts": {
     "lint": "./node_modules/.bin/eslint --max-warnings=0 .",
-    "serve": "firebase -P finance-app-32589 emulators:start --only functions",
-    "shell": "firebase -P finance-app-32589 functions:shell",
+    "serve": "firebase -P hyd-ration-ut5jsu emulators:start --only functions",
+    "shell": "firebase -P hyd-ration-ut5jsu functions:shell",
     "start": "npm run shell",
-    "logs": "firebase -P finance-app-32589 functions:log",
+    "logs": "firebase -P hyd-ration-ut5jsu functions:log",
     "compile": "cp ../../tsconfig.template.json ./tsconfig-compile.json && tsc --project tsconfig-compile.json"
   },
   "engines": {

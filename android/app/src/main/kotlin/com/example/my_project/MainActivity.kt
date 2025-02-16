@@ -1,4 +1,4 @@
-package com.flutterflow.finwallet
+package com.mealplanner.app
 
 import io.flutter.embedding.android.FlutterActivity
 
